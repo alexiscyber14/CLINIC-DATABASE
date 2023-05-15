@@ -97,8 +97,7 @@ To make use of this project, just clone it and execute the code blocks in you po
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **dynamic data querying**
-- [ ] **Expand the animals table**
+- [ ] **Dtabase table creation and table relationship modeling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
