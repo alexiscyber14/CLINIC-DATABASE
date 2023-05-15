@@ -124,7 +124,8 @@ If you like this project give it a star
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank <a href="https://www.microverse.org/">MICROVERSE FOR THEIR HELP ON THIS PROJECT</a>
-I would like to thank <a href="(https://github.com/ReemMohamedAbdelfatah/">Reem Mohamed</a>
+<br>
+I would like to thank <a href="https://github.com/ReemMohamedAbdelfatah/">Reem Mohamed</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
